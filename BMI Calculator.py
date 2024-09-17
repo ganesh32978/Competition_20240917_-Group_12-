@@ -3,9 +3,6 @@
 
 # In[ ]:
 
-
-
-
 # In[1]:
 
 
@@ -39,8 +36,6 @@ else:
     print("Please, enter a valid input")
 
 
-# In[ ]:
-# Commit by Reddy Prasad Rayalam
-
+# Comment from B.Santhoshini
 
 
