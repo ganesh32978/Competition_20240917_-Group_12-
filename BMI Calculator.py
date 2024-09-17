@@ -4,13 +4,7 @@
 # In[ ]:
 
 
-print(weight)
-Under 18.5	Underweight	Minimal
-18.5 - 24.9	Normal Weight	Minimal
-25 - 29.9	Overweight	Increased
-30 - 34.9	Obese	High
-35 - 39.9	Severely Obese	Very High
-40 and over	Morbidly Obese	Extremely High
+
 
 
 # In[1]:
@@ -46,7 +40,7 @@ else:
     print("Please, enter a valid input")
 
 
-# In[ ]:
+# Comment by B.Santhoshini Bojanapally
 
 
 
